@@ -8,7 +8,7 @@ var DatosSalon = {
       {
         codigo: "SD002",
         nombre: "Hector Lavoe",
-        nota: 7
+        nota: 7.5
       },
       {
         codigo: "SD003",
@@ -33,7 +33,7 @@ var DatosSalon = {
       {
         codigo: "SD007",
         nombre: "Manuel Hernandez",
-        nota: 2
+        nota: 2.5
       },
       {
         codigo: "SD008",
